@@ -123,6 +123,7 @@ subset(daily_pattern, steps==max(daily_pattern$steps), select=interval)
 ## 104      835
 ```
 
+5-minute interval from 08:35am to 08:40am contains the maximum average number of steps. 
 
 ## Imputing missing values
 Note that there are a number of days/intervals where there are missing
